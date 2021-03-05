@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorUnitTest</string>
+    <string name="note_enter">Enter a name for the operation</string>
+    <string name="note_operations">Execute operation below</string>
+</resources>
